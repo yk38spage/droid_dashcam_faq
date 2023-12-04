@@ -1,11 +1,11 @@
 <resources>
-    <string name="app_name">Droid Dashcam - Sürüş Video Kaydı</string>
+    <string name="app_name">Droid Dashcam - Sürüş video kaydı</string>
 
-    <string name="any_text">Herhangi </string>
+    <string name="any_text">Herhangi</string>
     <string name="close">Kapat</string>
     <string name="default_text">Varsayılan</string>
     <string name="disabled_text">Devre dışı</string>
-    <string name="donate_dialog_item_no_ads_text">(Reklamsız)</string>
+    <string name="donate_dialog_item_no_ads_text">(reklamsız)</string>
     <string name="zoom_text">Yakınlaştırma</string>
     <string name="reset">Sıfırla</string>
     <string name="unknown">Bilinmeyen</string>
@@ -14,46 +14,46 @@
     <string name="camera_aperture">Diyafram</string>
     <string name="camera_back">Arka kamera</string>
     <string name="camera_background_permission_error_msg">Arka planda kameraya erişebilmek için uygulamanın bir kez başlatılması gerekir.</string>
-    <string name="camera_error_background_tried_use_text">Android 11+\'da, arka planda kayda başlamadan önce, kamerayı arka planda kullanabilmek için uygulamanın çalışıyor ve en az bir kez görünür olması gerekir. Bu nedenle cihazı yeniden başlattıktan sonra uygulamayı görünür yapın ve bundan sonra kayıt hizmetini kapatmayın, bildirim merkezinde kalmalıdır.</string>
-    <string name="camera_error_busy">DroidDashcam: Kamera başka bir uygulama tarafından kullanıldığı için video kaydı durdu</string>
+    <string name="camera_error_busy">DroidDashcam: Kamera, başka bir uygulama tarafından kullanıldığı için video kaydı durduruldu</string>
     <string name="camera_error_text">DroidDashcam: Cihazın kamerası çalışmayı durdurduğu için video kaydı durduruldu</string>
+    <string name="camera_error_background_tried_use_text">Android 11 ve üzeri sürümlerde arka planda kayıt hizmeti başlatılmadan önce kameranın arka planda kullanılabilmesi için uygulamanın en az bir kez başlatılması ve görünür olması gerekmektedir. Bu nedenle cihazı yeniden başlattıktan sonra uygulamayı açık hâle getirin ve kayıt hizmetini kapatmayın, bildirim panelinde görünmelidir</string>
     <string name="camera_external">Harici USB Kamera</string>
     <string name="camera_focal_length">Odak uzaklığı</string>
-    <string name="camera_fov_text">Görüş açıları (16: 9)</string>
-    <string name="camera_fov_vertical_text">Dikey</string>
-    <string name="camera_fov_horbizonal_text">Yatay</string>
-    <string name="camera_front">Ön kamera</string>
-    <string name="camera_msg_error_in_use_text">Kamera başka bir uygulama tarafından kullanılıyordu. Lütfen video kaydederken kamerayı kullanabilecek diğer uygulamaları çalıştırmayın. Android, aynı anda yalnızca bir uygulamanın kamerayı kullanmasına izin verir</string>
+    <string name="camera_fov_text">Görüş açısı (16:9)</string>
+    <string name="camera_fov_vertical_text">dikey</string>
+    <string name="camera_fov_horbizonal_text">yatay</string>
+    <string name="camera_front">Ön Kamera</string>
+    <string name="camera_msg_error_in_use_text">Kamera başka bir uygulama tarafından kullanılıyordu. Lütfen video kaydı sırasında kamerayı kullanabilecek diğer uygulamaları kullanmayın. Android, aynı anda yalnızca bir uygulamanın kamerayı kullanmasına izin verir</string>
     <string name="camera_msg_error_unknown_text">Kamera geçici olarak cihazınızda açılamıyor (sistem kamera hatası)</string>
     <string name="camera_support_error">Kamerayı kullanırken bir hata oluştu.</string>
 
-    <string name="dialog_camera_not_found_msg_text">Bu cihazda yerleşik bir kamera yoktur ve harici kameraları desteklemez. Kapanıyor…</string>
+    <string name="dialog_camera_not_found_msg_text">Bu cihazda yerleşik bir kamera yok ve harici kameraları desteklemez. Kapanıyor…</string>
     <string name="dialog_camera_not_found_text">Kamera bulunamadı</string>
-    <string name="dialog_go_to_settings_text">Ayarları aç</string>
+    <string name="dialog_go_to_settings_text">Ayarlara Git</string>
     <string name="dialog_report_the_error_text_btn">Hata bildir</string>
     <string name="dialog_select_camera_text">Kamera seç</string>
     <string name="dialog_skip_btn_title">Atla</string>
-    <string name="dialog_unlock_video_text">Mevcut videonun üzerine yazılmasının kilidi açılsın mı\?</string>
+    <string name="dialog_unlock_video_text">Mevcut videonun üzerine yazılmasının kilidi açılsın mı?</string>
 
-    <string name="donate_success_thanks_msg_text">Desteğin için çok teşekkür ederim!</string>
-    <string name="donation_dlg_has_ads_text">Reklamları kaldırmak için bağış veya daha fazlası olmalıdır.</string>
-    <string name="donation_dlg_no_ads_text">Reklamsız kullanabilirsiniz.</string>
+    <string name="donate_success_thanks_msg_text">Desteğiniz için çok teşekkür ederiz!</string>
+    <string name="donation_dlg_has_ads_text">Reklamları kaldırmak için bir bağış veya daha fazlası olmalıdır.</string>
+    <string name="donation_dlg_no_ads_text">Reklamsız kullanıyorsunuz.</string>
     <string name="donation_level_text">Bağış seviyeniz:</string>
-    <string name="donation_purchase_info_loading_text">Alışveriş bilgileri henüz yüklenmedi. Çevrimiçi misiniz ve Google hesabınızda oturum açtınız mı\?</string>
+    <string name="donation_purchase_info_loading_text">Satın alma bilgileri henüz yüklenmedi. İnternete bağlı ve Google hesabınıza giriş yaptınız mı?</string>
     <string name="donation_subs_check_box_text">Aylık bağış yapın (herhangi bir tutar için reklam yok)</string>
     <string name="donation_subs_manage_btn_text">Aboneliği iptal et</string>
 
-    <string name="format_altitude">Rakım</string>
     <string name="format_degrees">Koordinatlar</string>
     <string name="format_gb">GB</string>
-    <string name="format_hz">Hz.</string>
+    <string name="format_hz">Hz</string>
     <string name="format_kbits">Kbps</string>
     <string name="format_mbits">Mbps</string>
     <string name="format_meters">m</string>
-    <string name="format_minutes">Dk.</string>
     <string name="format_gps_speed">GPS Hızı</string>
-    <string name="format_speed_measure_kilometers">Km /s</string>
-    <string name="format_speed_measure_miles">Mil/s</string>
+    <string name="format_speed_measure_kilometers">km/h</string>
+    <string name="format_speed_measure_miles">mph</string>
+    <string name="format_altitude">Rakım</string>
+    <string name="format_minutes">dk.</string>
 
     <string name="msg_activity_battery_is_not_ignoring_msg_text">Droid Dashcam, pil optimizasyonunun dışında değildir. Kamera arka planda çalışmıyorsa veya başka bir şey varsa, bu uygulamayı güç tasarrufu modu istisnalarına ekleyin.</string>
     <string name="msg_android_r_deleting_manual_tip_text">Uygulamayı Android 11\'e yeniden yüklediyseniz, eski dosyalar elle olarak silinmelidir.</string>
